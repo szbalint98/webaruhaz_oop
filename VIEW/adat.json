@@ -1,0 +1,46 @@
+{
+    "OBJEKTUMLISTA": [
+      {
+        "id": "1",
+        "nev": "Rtx 2070",
+        "gyarto": "Nvidia",
+        "ar": 135000,
+        "kep": "kepek/500.png"
+      },
+      {
+        "id": "2",
+        "nev": "Rtx 3080",
+        "gyarto": "Nvidia",
+        "ar": 170000,
+        "kep": "kepek/500.png"
+      },
+      {
+        "id": "3",
+        "nev": "Gtx 770",
+        "gyarto": "Nvidia",
+        "ar": 25000,
+        "kep": "kepek/500.png"
+      },
+      {
+        "id": "4",
+        "nev": "Hd 7070",
+        "gyarto": "AMD",
+        "ar": 5000,
+        "kep": "kepek/600.png"
+      },
+      {
+        "id": "5",
+        "nev": "Rtx 2080",
+        "gyarto": "Nvidia",
+        "ar": 175000,
+        "kep": "kepek/600.png"
+      },
+      {
+        "id": "6",
+        "nev": "Gtx 1070",
+        "gyarto": "Nvidia",
+        "ar": 76000,
+        "kep": "kepek/600.png"
+      }
+    ]
+  }
