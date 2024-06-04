@@ -15,7 +15,7 @@ export default class DataService{
                     body: JSON.stringify(adat)//objektumlistát átalakítjuk szöveges JSON-né
                 })
                 .then((response) => response.json())
-                .then((data) => { console.log(data) })
+                .then((data) => { console.log(data) }) 
                 .catch((error) => console.log(error))
         }
         
