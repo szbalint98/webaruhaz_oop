@@ -5,7 +5,7 @@ export default class DataService{
             fetch(vegpont)
                 .then((response) => response.json())
                 .then((data) => { callback(data); })
-                .catch((err) => { console.log(err); });
+                .catch((error) => { console.log(error); });
         }
 
          postAdat(vegpont, adat) {

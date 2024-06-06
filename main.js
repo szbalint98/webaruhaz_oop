@@ -4,7 +4,7 @@ import DataService from './MODEL/DataService.js';
 
 
 const DS=new DataService();
-DS.getKeres("OBJEKTUMLISTA", megjelenit)
+DS.getKeres("adat.json", megjelenit)
 
 function megjelenit(){
     new Tablazat(OBJEKTUMLISTA,$(".tablazat"))
